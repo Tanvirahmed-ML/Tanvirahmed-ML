@@ -21,15 +21,13 @@ I enjoy working on projects that involve data analysis, predictive modeling, and
 
 # Currently Learning
 
-   Deep Learning (CNN, RNN, Transformers)
+   Deep Learning (CNN, RNN, Transformers) 
    Model evaluation and optimization
    Applied machine learning workflows
 
 # Goals
    Build impactful AI/ML projects
    Contribute to real-world data-driven solutions
-   Participate in programs like EEML
+   Participate in global ML programs
 
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
